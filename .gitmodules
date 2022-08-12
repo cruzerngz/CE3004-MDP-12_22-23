@@ -1,0 +1,12 @@
+[submodule "MDP_STM32"]
+	path = MDP_STM32
+	url = https://github.com/cruzerngz/MDP_STM32
+[submodule "MDP_RPI"]
+	path = MDP_RPI
+	url = https://github.com/cruzerngz/MDP_RPI
+[submodule "MDP_algo"]
+	path = MDP_algo
+	url = https://github.com/cruzerngz/MDP_algo
+[submodule "MDP_android"]
+	path = MDP_android
+	url = https://github.com/cruzerngz/MDP_android
